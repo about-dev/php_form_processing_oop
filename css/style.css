@@ -1,0 +1,23 @@
+table{
+    border: none;
+}
+
+form textarea{
+    width: 300px;
+    height: 150px;
+}
+
+.submit{
+    background-color: #EFEFFF;
+    border: 1px solid #CCCCCC;
+    cursor: pointer;
+}
+
+.error{
+    color: #B22222;
+    font-style: italic;
+}
+.success{
+    color: #228B22;
+    font-style: italic;
+}
